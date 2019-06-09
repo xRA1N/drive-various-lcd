@@ -1,4 +1,4 @@
-//      ENH12864-130/ ESP8266 arduino    横屏液晶 UC1604液晶
+//      ENH12864-130/ ESP8266 arduino 
 //     /*sclk=*/ D5, /*data=*/ D7, /*cd=*/ D1, /*cs=*/ D2, /*reset=*/ D9);
 
 #include <U8g2lib.h>
