@@ -17,4 +17,4 @@
 
 * u8g2 ucglib
 * adafruit GFX
-* 
+* sparkfun HyperDisplay
