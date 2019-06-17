@@ -11,9 +11,13 @@
 
 
 * SGP18T
+
 ** ILI9163
+
 *** https://github.com/sparkfun/HyperDisplay_ILI9163C_ArduinoLibrary
+
 *** https://github.com/sumotoy/TFT_ILI9163C
+
 *** https://github.com/Bodmer/TFT_ILI9163
 
 ## Driver libs
