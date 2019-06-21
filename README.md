@@ -22,10 +22,9 @@
 * adafruit GFX
 * sparkfun HyperDisplay
 
-[SPI_LCD](https://github.com/bitbank2/SPI_LCD)  A simple C library for directly communicating with SPI-connected LCD displays 
- SSD1351, ST7735, ILI9341 or HX8357
+* [SPI_LCD](https://github.com/bitbank2/SPI_LCD) SSD1351, ST7735, ILI9341 or HX8357
  
- * https://github.com/sparkfun/HyperDisplay_ILI9163C_ArduinoLibrary
+* https://github.com/sparkfun/HyperDisplay_ILI9163C_ArduinoLibrary
 
 * https://github.com/sumotoy/TFT_ILI9163C
 
