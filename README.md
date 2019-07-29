@@ -15,7 +15,7 @@
 
 
 
-## Driver libs
+## Graphic libs
 
 * u8g2 ucglib
 * adafruit GFX
