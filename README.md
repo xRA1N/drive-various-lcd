@@ -1,6 +1,6 @@
 # drive-various-lcd
 
-## Modules
+## LCD Modules
 
 * [ENH12864-130](ENH12864-130/sample_image_ENH12864-130.jpg)
 
