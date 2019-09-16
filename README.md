@@ -21,6 +21,7 @@
 * adafruit GFX
 * sparkfun HyperDisplay
 * ILI9341, ILI9163, ST7735, S6D02A1, ILI9481, ILI9486, ILI9488, HX8357D and ST7789 based TFT displays https://github.com/Bodmer/TFT_eSPI
+* gnulabis/UTFT-ESP https://github.com/gnulabis/UTFT-ESP
 
 * [SPI_LCD](https://github.com/bitbank2/SPI_LCD) SSD1351, ST7735, ILI9341 or HX8357
  
