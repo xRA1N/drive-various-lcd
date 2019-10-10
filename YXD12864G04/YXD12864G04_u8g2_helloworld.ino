@@ -14,12 +14,10 @@
 #ifdef U8X8_HAVE_HW_SPI
 #include <SPI.h>
 #endif
-#ifdef U8X8_HAVE_HW_I2C
-#include <Wire.h>
-#endif
 
-//  // Set R/W to low!
-U8G2_KS0108_128X64_F u8g2(U8G2_R0, 8, 9, 10, 11, 4, 5, 6, 7, /*enable=*/ 18, /*dc=*/ 17, /*cs0=*/ 14, /*cs1=*/ 15, /*cs2=*/ U8X8_PIN_NONE, /* reset=*/  U8X8_PIN_NONE); 
+
+// Set R/W to low!
+U8G2_KS0108_128X64_F u8g2(U8G2_R0, 4,5, 6, 7, 8, 9,10, 11, /*enable=*/12,/*dc=*/  13,   /*cs0=*/ 3, /*cs1=*/ 2, /*cs2=*/ U8X8_PIN_NONE, /* reset=*/  U8X8_PIN_NONE); 
 
 void setup(void) {
   u8g2.begin();
