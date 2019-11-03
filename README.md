@@ -33,3 +33,5 @@
 * https://github.com/Bodmer/TFT_ILI9163
 
 * https://github.com/prenticedavid/TFT_SPI_kbv
+
+* https://github.com/nquest/micropython-st7565
