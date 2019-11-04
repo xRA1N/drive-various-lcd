@@ -37,3 +37,5 @@
 * https://github.com/nquest/micropython-st7565
 
 * https://github.com/boochow/MicroPython-ST7735
+
+* https://github.com/tuupola/micropython-ili934x
