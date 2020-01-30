@@ -45,3 +45,5 @@
 * https://github.com/ShrimpingIt/micropython-st7920
 
 * https://github.com/regishsu/TFT-LCD/blob/master/micropython/raspi35.py # ili9486
+
+* https://github.com/mcauser/micropython-pcd8544 #nokia5110/pcd8544
