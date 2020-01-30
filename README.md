@@ -15,7 +15,7 @@
 
 
 
-## Graphic libs
+## Arduino Graphic libs
 
 * u8g2 ucglib
 * adafruit GFX
@@ -33,6 +33,8 @@
 * https://github.com/Bodmer/TFT_ILI9163
 
 * https://github.com/prenticedavid/TFT_SPI_kbv
+
+## MicroPython 
 
 * https://github.com/nquest/micropython-st7565
 
