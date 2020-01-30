@@ -41,3 +41,5 @@
 * https://github.com/tuupola/micropython-ili934x
 
 * https://github.com/ShrimpingIt/micropython-st7920
+
+* https://github.com/regishsu/TFT-LCD/blob/master/micropython/raspi35.py # ili9486
