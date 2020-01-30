@@ -34,7 +34,7 @@
 
 * https://github.com/prenticedavid/TFT_SPI_kbv
 
-## MicroPython 
+## MicroPython libs
 
 * https://github.com/nquest/micropython-st7565
 
