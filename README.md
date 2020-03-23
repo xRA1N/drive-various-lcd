@@ -1,5 +1,10 @@
 # drive-various-lcd
 
+## LCD drive chip
+
+* ks0108
+
+
 ## LCD Modules
 
 * [ENH12864-130](ENH12864-130/sample_image_ENH12864-130.jpg)
@@ -11,6 +16,7 @@
 
 * SGP18T|ILI9163
 
+* YXD
 
 
 
@@ -43,6 +49,8 @@
 * https://github.com/tuupola/micropython-ili934x
 
 * https://github.com/ShrimpingIt/micropython-st7920
+
+* https://github.com/hacksterous/ks0108
 
 * https://github.com/regishsu/TFT-LCD/blob/master/micropython/raspi35.py # ili9486
 
