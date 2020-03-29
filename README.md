@@ -26,6 +26,7 @@
 * u8g2 ucglib
 * adafruit GFX
 * https://github.com/lexus2k/lcdgfx
+* https://github.com/moononournation/Arduino_GFX
 * sparkfun HyperDisplay
 * TFT_eSPI ILI9341, ILI9163, ST7735, S6D02A1, ILI9481, ILI9486, ILI9488, HX8357D and ST7789 based TFT displays https://github.com/Bodmer/TFT_eSPI
 * gnulabis/UTFT-ESP https://github.com/gnulabis/UTFT-ESP
