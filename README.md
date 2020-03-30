@@ -47,6 +47,8 @@
 
 * https://github.com/boochow/MicroPython-ST7735
 
+* https://github.com/devbis/st7789_mpy
+
 * https://github.com/tuupola/micropython-ili934x
 
 * https://github.com/ShrimpingIt/micropython-st7920
