@@ -49,6 +49,8 @@
 
 * https://github.com/devbis/st7789_mpy
 
+* https://github.com/PrestonHackspace/esp32-micropython/blob/master/sys/lib/ili9163.py 
+
 * https://github.com/tuupola/micropython-ili934x
 
 * https://github.com/ShrimpingIt/micropython-st7920
