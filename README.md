@@ -1,8 +1,35 @@
-# drive-various-lcd
+# Various-LCD
 
-## LCD drive chip
+## LCD driver chips
+
+### Color TFT OLED 
+
+###  Monochrome Graphic
+* UC1611 
+
+* UC1610
+
+* SSD1306 
+
+* ST7565 compatible NT7534
+
+* PCD8544(NOKIA5110)
 
 * ks0108
+
+### e-ink
+
+
+### Monochrome Character 
+* HD44780 compatible KS0066, ST7066, SPLC780, SED1278, LC7985A, NT7603, AIP31066. 
+
+KS0073, KS0078, ST7036, SSD1803, SSD1803A, HD66712, SPLC792A. 
+
+WS0010, US2066, SSD1311.
+
+ST7032i, ST7036i, ST7070, SSD1803, AIP31068, PCF211X, AC780.
+
+https://os.mbed.com/users/wim/notebook/textlcd-enhanced/
 
 
 ## LCD Modules
@@ -23,12 +50,13 @@
 
 ## Arduino Graphic libs
 
-* u8g2 ucglib
+* u8g2 ucglib https://github.com/olikraus/u8g2/wiki/u8g2setupcpp
+* TFT_eSPI ILI9341, ILI9163, ST7735, S6D02A1, ILI9481, ILI9486, ILI9488, HX8357D and ST7789 based TFT displays https://github.com/Bodmer/TFT_eSPI
 * adafruit GFX
 * https://github.com/lexus2k/lcdgfx
 * https://github.com/moononournation/Arduino_GFX
 * sparkfun HyperDisplay
-* TFT_eSPI ILI9341, ILI9163, ST7735, S6D02A1, ILI9481, ILI9486, ILI9488, HX8357D and ST7789 based TFT displays https://github.com/Bodmer/TFT_eSPI
+
 * gnulabis/UTFT-ESP https://github.com/gnulabis/UTFT-ESP
 
 * [SPI_LCD](https://github.com/bitbank2/SPI_LCD) SSD1351, ST7735, ILI9341 or HX8357
