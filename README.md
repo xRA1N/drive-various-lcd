@@ -71,6 +71,9 @@ https://os.mbed.com/users/wim/notebook/textlcd-enhanced/
 * https://github.com/prenticedavid/TFT_SPI_kbv
 
 ## MicroPython libs
+* https://github.com/micropython/micropython/blob/master/drivers/display/ssd1306.py
+
+* https://github.com/kaixindelele/ssd1306-MicroPython-ESP32-Chinese
 
 * https://github.com/nquest/micropython-st7565
 
@@ -78,11 +81,13 @@ https://os.mbed.com/users/wim/notebook/textlcd-enhanced/
 
 * https://github.com/devbis/st7789_mpy
 
+* https://github.com/ShrimpingIt/micropython-st7920
+
 * https://github.com/PrestonHackspace/esp32-micropython/blob/master/sys/lib/ili9163.py 
 
 * https://github.com/tuupola/micropython-ili934x
 
-* https://github.com/ShrimpingIt/micropython-st7920
+
 
 * https://github.com/hacksterous/ks0108
 
