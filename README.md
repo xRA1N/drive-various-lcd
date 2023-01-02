@@ -87,13 +87,13 @@ https://os.mbed.com/users/wim/notebook/textlcd-enhanced/
 
 * https://github.com/tuupola/micropython-ili934x
 
-
-
 * https://github.com/hacksterous/ks0108
 
 * https://github.com/regishsu/TFT-LCD/blob/master/micropython/raspi35.py # ili9486
 
 * https://github.com/mcauser/micropython-pcd8544 #nokia5110/pcd8544
+
+* https://gitee.com/walkline/micropython-new-fontlib
 
 ## Python lib
 * https://github.com/rm-hull/luma.oled  #luma SSD1306 / SSD1309 / SSD1322 / SSD1325 / SSD1327 / SSD1331 / SSD1351 / SH1106 
