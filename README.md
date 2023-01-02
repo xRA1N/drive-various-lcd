@@ -95,5 +95,7 @@ https://os.mbed.com/users/wim/notebook/textlcd-enhanced/
 
 * https://gitee.com/walkline/micropython-new-fontlib
 
+* https://github.com/AntonVanke/MicroPython-Chinese-Font
+
 ## Python lib
 * https://github.com/rm-hull/luma.oled  #luma SSD1306 / SSD1309 / SSD1322 / SSD1325 / SSD1327 / SSD1331 / SSD1351 / SH1106 
