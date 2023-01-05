@@ -70,6 +70,8 @@ https://os.mbed.com/users/wim/notebook/textlcd-enhanced/
 
 * https://github.com/prenticedavid/TFT_SPI_kbv
 
+* https://github.com/takkaO/OpenFontRender
+
 ## MicroPython libs
 * https://github.com/micropython/micropython/blob/master/drivers/display/ssd1306.py
 
